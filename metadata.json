@@ -1,0 +1,6 @@
+{
+  "name": "19 — С днём рождения, Шурочка",
+  "description": "Интерактивная 3D-открытка на 19-летие в эстетике Unknown Pleasures под Joy Division — Disorder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
